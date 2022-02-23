@@ -3,12 +3,12 @@ package lesson;
 import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
-public class SayHelloTest {
+public class PalindromeTest {
 
     @Test
     public void methodReturnsHello() {
         // Example for testing the SayHello class!
-        SayHello hello = new SayHello();
+        Palindrome hello = new Palindrome();
         assertEquals(hello.SaySomething(), "Hello");
     }   
 }
