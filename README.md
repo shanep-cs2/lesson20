@@ -1,4 +1,4 @@
-# lesson20 - Warmup
+# lesson20 - Using a Deque
 
 - name: TODO
 - email: TODO
