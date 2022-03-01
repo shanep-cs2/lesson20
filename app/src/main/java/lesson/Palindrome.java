@@ -1,6 +1,6 @@
 package lesson;
 
-public class Palindrome implements Talker{
+public class Palindrome{
 
     @Override
     public String SaySomething() {
