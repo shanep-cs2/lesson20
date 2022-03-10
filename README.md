@@ -8,6 +8,10 @@ will use a [deque](https://docs.oracle.com/javase/8/docs/api/java/util/Deque.htm
 program that tests whether a line of text is a palindrome. The program reads a line, then outputs
 whether the input is a palindrome or not.
 
+## Videos
+
+- [Lab Overview]()
+
 ## Task 1 - Implement Palindrome class
 
 You will complete the Palindrome class. Your class will have just one method with the following
