@@ -10,7 +10,7 @@ whether the input is a palindrome or not.
 
 ## Videos
 
-- [Lab Overview]()
+- [Lab Overview](https://youtu.be/-KJkOxlP_0w)
 
 ## Task 1 - Implement Palindrome class
 
@@ -49,3 +49,12 @@ Output:
 YES, "taco cat!" is a palindrome.
 ```
 
+## Task 4 - Complete the Retrospective
+
+Once you have completed all the tasks open the file **Retrospective.md** and complete each section
+with a TODO comment. 
+
+## Task 5 - Add, Commit, Push your code
+
+Once you are finished you need to make sure that you have pushed all your code to GitHub for
+grading!
