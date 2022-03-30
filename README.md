@@ -12,6 +12,7 @@ whether the input is a palindrome or not.
 
 - [Lab Overview](https://youtu.be/-KJkOxlP_0w)
 - [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
+- [Cloning and Submitting](https://shanep-cs2.github.io/docs/github.html)
 
 ## Task 1 - Implement Palindrome class
 
